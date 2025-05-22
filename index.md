@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: I was a class clown since second grade.
 ---
 
